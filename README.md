@@ -10,3 +10,5 @@ It means you can not only tell a user what strength their password is, as they t
 See https://github.com/n0nick/password_strength
 
 It is not PSR-0 at this stage - it is just a dump of what I have written for a specific project. It can be tidied up in time.
+
+The package as it sits at this time, is writtem for FuelPHP 1.2
